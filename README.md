@@ -1,3 +1,3 @@
 # firstdemo
 this is my first github repo
-author - john
+author - john (university)
